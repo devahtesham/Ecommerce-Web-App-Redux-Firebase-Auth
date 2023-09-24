@@ -44,5 +44,3 @@ export {
   getDocs,
   deleteDoc,
 };
-
-// kjdadkahskjdhkjsdjksad
